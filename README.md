@@ -1,3 +1,4 @@
 # counterApp
 Made a manual counting app with HTML,CSS, JAVASCRIPT
-#Live Preview:
+
+# Live Preview:
